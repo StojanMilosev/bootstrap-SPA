@@ -1,2 +1,2 @@
 # bootstrap-SPA
-single page concept webisite
+single page concept webisite for training purposes
